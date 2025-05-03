@@ -20,7 +20,7 @@ function ViewerWrapper() {
     <ArticleViewer
       filePath={decodeURIComponent(filePath)}
       onNavigate={(path) => {
-        window.location.href = `/article-editor/${encodeURIComponent(path)}`;
+        window.location.href = `devrain-cases/${encodeURIComponent(path)}`;
       }}
     />
   );
