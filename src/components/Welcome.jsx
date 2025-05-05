@@ -1,21 +1,21 @@
 import React from 'react';
 const clients = [
-    { src: 'public/companies/microsoft-black.svg', alt: 'Microsoft' },
-    { src: 'public/companies/sanofi-black.svg', alt: 'Sanofi' },
-    { src: 'public/companies/inphiz-black.svg', alt: 'Inphiz' },
-    { src: 'public/companies/rai-black.svg', alt: 'Revenue.AI' },
-    { src: 'public/companies/kernel-black.svg', alt: 'Kernel' },
-    { src: 'public/companies/mhp-black.svg', alt: 'MHP' },
-    { src: 'public/companies/kyivstar-black.svg', alt: 'Kyivstar' },
-    { src: 'public/companies/metinvest-black.svg', alt: 'Metinvest' },
-    { src: 'public/companies/nerdio.svg', alt: 'Nerdio' },
-    { src: 'public/companies/BudgetThuis-black.svg', alt: 'BudgetThuis' },
-    { src: 'public/companies/SparkDynamics.svg', alt: 'SparkDynamics' },
-    { src: 'public/companies/dbazahealth.svg', alt: 'dbazahealth' },
-    { src: 'public/companies/setvi.svg', alt: 'setvi' },
-    { src: 'public/companies/avantime.svg', alt: 'avantime' },
-    { src: 'public/companies/pumb.svg', alt: 'pumb' },
-    { src: 'public/companies/kitelytech.svg', alt: 'kitelytech' }
+    { src: 'companies/microsoft-black.svg', alt: 'Microsoft' },
+    { src: 'companies/sanofi-black.svg', alt: 'Sanofi' },
+    { src: 'companies/inphiz-black.svg', alt: 'Inphiz' },
+    { src: 'companies/rai-black.svg', alt: 'Revenue.AI' },
+    { src: 'companies/kernel-black.svg', alt: 'Kernel' },
+    { src: 'companies/mhp-black.svg', alt: 'MHP' },
+    { src: 'companies/kyivstar-black.svg', alt: 'Kyivstar' },
+    { src: 'companies/metinvest-black.svg', alt: 'Metinvest' },
+    { src: 'companies/nerdio.svg', alt: 'Nerdio' },
+    { src: 'companies/BudgetThuis-black.svg', alt: 'BudgetThuis' },
+    { src: 'companies/SparkDynamics.svg', alt: 'SparkDynamics' },
+    { src: 'companies/dbazahealth.svg', alt: 'dbazahealth' },
+    { src: 'companies/setvi.svg', alt: 'setvi' },
+    { src: 'companies/avantime.svg', alt: 'avantime' },
+    { src: 'companies/pumb.svg', alt: 'pumb' },
+    { src: 'companies/kitelytech.svg', alt: 'kitelytech' }
   ];
 
 export default function Welcome() {
