@@ -35,7 +35,7 @@ export default function Welcome() {
                 />
                 </svg>
             </div>
-            <div className="partner-title text-3xl">
+            <div className="partner-title">
                 We are Microsoft AI Cloud Solutions Partner
             </div>
         </div>
