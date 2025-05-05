@@ -5,7 +5,7 @@ EMOTIONAL SUPPORT
 ---
 # Emotional Support through AI-Driven Virtual Companions Platform
 
-**_Summary_**
+**Summary**
 
 Loneliness has become a significant public health issue in today's digital world. Research links loneliness to increased risks of stroke and cardiovascular disease due to specific proteins associated with social isolation. Globally, loneliness rates vary, with higher prevalence in Eastern Europe and lower in Northern Europe. The Harvard Making Caring Common project highlights that societal changes and individual behaviors contribute to this epidemic, suggesting that fostering meaningful connections and community-building are essential.
 
