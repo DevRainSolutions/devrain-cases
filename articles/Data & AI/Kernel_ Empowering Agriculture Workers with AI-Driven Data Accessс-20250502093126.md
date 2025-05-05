@@ -1,6 +1,5 @@
 ---
-AGTECH  
-RAG  
+AI KNOWLEDGE BASE 
 AI-POWERED DECISION SUPPORT  
 ---
 # Kernel: Empowering Agriculture Workers with AI-Driven Data Access

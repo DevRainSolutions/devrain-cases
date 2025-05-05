@@ -1,7 +1,6 @@
 const e=`---
 IT SUPPORT AUTOMATION  
-RAG  
-INTERNAL KNOWLEDGE BASE  
+AI KNOWLEDGE BASE 
 ---
 # Kernel: Internal IT Support with Azure OpenAI  
 **Company Background**

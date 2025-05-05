@@ -5,6 +5,10 @@ MPOS INTEGRATION
 ---
 # eCommerce SaaS CRM platform with mPOS system is used by small & medium Swiss trading companies
 
+### Client
+
+[SparkDynamic (SparkDynamic - your Software Licensing Partner)](https://www.sparkdynamic.com/) is a software distributor for Tier 2 and Tier 3 products. Such products are sold exclusively through LARs (Large Account Resellers), VARs (Value-added Resellers) as well as other resellers and system houses.
+
 ### Problem
 
 The Swiss market is full of small local companies that are using old-style eCommerce solutions.
@@ -28,14 +32,6 @@ eCommerce SaaS platform allows companies to set up a modern website to accept or
 
 *   Microsoft Entra
 *   Swiss Post
-
-  
-
-### Client
-
-[SparkDynamic (SparkDynamic - your Software Licensing Partner)](https://www.sparkdynamic.com/) is a software distributor for Tier 2 and Tier 3 products. Such products are sold exclusively through LARs (Large Account Resellers), VARs (Value-added Resellers) as well as other resellers and system houses.
-
-  
 
 ### Public links
 

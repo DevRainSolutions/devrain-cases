@@ -5,6 +5,10 @@ SHAREPOINT AUTOMATION
 ---
 # Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise
 
+### Client
+
+[Metinvest](https://metinvest.digital/en) is a vertically integrated group of steel and mining companies that manages every link of the value chain, from mining and processing iron ore and coal to making and selling semi-finished and finished steel products. Metinvest Digital is a part of Metinvest.
+
 ### Problem
 
 Big enterprises commonly use Microsoft SharePoint as document storage and a knowledge base. Access management, security, and data governance are essential for such solutions. Also, having terabytes of data, document management, and search have become real challenges.
@@ -53,16 +57,8 @@ A multilingual search with enhanced machine learning capabilities allows for dec
 *   Microsoft Entra
 *   SharePoint Online
 
-  
-
-### Client
-
-[Metinvest](https://metinvest.digital/en) is a vertically integrated group of steel and mining companies that manages every link of the value chain, from mining and processing iron ore and coal to making and selling semi-finished and finished steel products. Metinvest Digital is a part of Metinvest.
-
-  
-
 ### Public links
 
-Metinvest, an international steel and mining group spent eternity managing and searching through terabytes of data on Microsoft SharePoint. In response, we integrated an advanced multilingual search system enhanced with machine learning. This solution effectively identifies linked documents, detects duplicates, extracts key data insights, and automates document categorization. Read the full story. [**Read the full story.**](https://devrain.com/case-studies/document-processing/how-metinvest-transforms-data-management-and-document-search)
+Metinvest, an international steel and mining group spent eternity managing and searching through terabytes of data on Microsoft SharePoint. In response, we integrated an advanced multilingual search system enhanced with machine learning. This solution effectively identifies linked documents, detects duplicates, extracts key data insights, and automates document categorization. Read the full story. [Read the full story.](https://devrain.com/case-studies/document-processing/how-metinvest-transforms-data-management-and-document-search)
 
 ###`;export{e as default};

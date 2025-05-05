@@ -1,7 +1,7 @@
 ---
 REVENUE MANAGEMENT  
 AI ASSISTANT  
-RAG  
+AI KNOWLEDGE BASE   
 ---
 
 # Intelligent Assistant for Revenue Management platform 
