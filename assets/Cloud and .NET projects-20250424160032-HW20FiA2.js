@@ -1,4 +1,4 @@
-# Cloud and .NET projects
+const e=`# Cloud and .NET projects
 
 **Digital Workplace for enterprise with Microsoft Teams**
 
@@ -26,4 +26,4 @@
 
 **Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise**
 
-[Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise](Data%20&%20AI/Knowledge-base-on-Microsoft-SharePoint-with-enhanced-search-and-machine-learning-capabilities-for-enterprise.md)
+[Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise](Data%20&%20AI/Knowledge-base-on-Microsoft-SharePoint-with-enhanced-search-and-machine-learning-capabilities-for-enterprise.md)`;export{e as default};

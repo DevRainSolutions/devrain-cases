@@ -1,4 +1,4 @@
-
+const e=`
 # AI-powered projects
 
 ## Enabling Quick Access to Corporate Knowledge with Agentic RAG using Azure OpenAI
@@ -60,3 +60,4 @@ IT Pro must write custom complex PowerShell scripts to manage companies' infrast
 Azure OpenAI-based RAG solution helps employees
 
 ---
+`;export{e as default};
