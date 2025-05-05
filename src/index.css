@@ -1,5 +1,6 @@
 *{
   font-family: Poppins;
+  color: #25272F;
 }
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -18,12 +19,12 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #489C9C;
   text-decoration: underline;
   cursor: pointer;
 }
 a:hover {
-  color: #535bf2;
+  color: #489C9C;
 }
 
 body {
@@ -33,10 +34,9 @@ body {
   min-height: 100vh;
   background-color: white;
 }
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  margin: 0;
 }
 
 button {
@@ -75,7 +75,6 @@ button:focus-visible {
   flex-direction: row;
   position: relative;
   transition: all 0.3s ease-in-out;
-  z-index: 10;
 }
 
 .sidebar {
@@ -181,7 +180,6 @@ button:focus-visible {
 }
 
 .sidebar-wrapper {
-  width: 250px;
   background-color: #f5f5f5;
   height: 100vh;
   overflow-y: auto;
@@ -248,6 +246,9 @@ button:focus-visible {
   .header-content{
     padding: 0 1rem;;
   }
+  .sidebar-wrapper{
+    width: 250px;
+  }
 }
 
 .overlay {
@@ -277,4 +278,201 @@ button:focus-visible {
   .sidebar-item.selected {
     font-weight: bold;
   }
+}
+
+.gradient-text-1 {
+  background: radial-gradient(129.46% 10851.1% at 93.57% 73.33%,#25272f 38.69%,#4fa3a3 57.81%,#000 96.35%);
+  background-clip: text;
+  font-weight: inherit;
+}
+
+.gradient-text-1, .gradient-text-2 {
+  -webkit-text-fill-color: rgba(0,0,0,0)
+}
+
+.gradient-text-2 {
+  background: radial-gradient(89.23% 7478.09% at 1.8% 66.13%,#25272f 6.42%,#4fa3a3 52.73%,#000 96.35%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-weight: inherit;
+}
+
+.responsive-heading {
+  display: grid;
+  gap: 6px;
+  position: relative;
+  font-weight: 600; 
+  font-size: 40px; 
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .responsive-heading {
+    font-size: 46px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-heading {
+    font-size: 56px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .responsive-heading {
+    font-size: 60px;
+  }
+}
+
+.clients {
+  position: relative;
+  margin-bottom: 60px;
+  max-width: 92rem;
+}
+
+.clients:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 1280px) {
+  .clients {
+    margin-bottom: 45px;
+  }
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.grid-cols-12 {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.gap-24 {
+  gap: 24px;
+}
+
+@media (min-width: 1280px) {
+  .gap-30 {
+    gap: 30px;
+  }
+}
+
+.col-span-4 {
+  grid-column: span 4 / span 4;
+}
+
+.col-span-3 {
+  grid-column: span 3 / span 3;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (min-width: 1280px) {
+  .xl\:grid {
+    display: grid;
+  }
+  .xl\:hidden{
+    display: none;
+  }
+}
+
+.mt-102 {
+  margin-top: 102px;
+}
+
+.text-3xl {
+  font-size: 24px;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.max-w-288 {
+  max-width: 288px;
+}
+
+.col-span-12 {
+  grid-column: span 12 / span 12;
+}
+
+@media (min-width: 1280px) {
+  .xl\:col-span-8 {
+    grid-column: span 8 / span 8;
+  }
+
+  .xl\:pb-54 {
+    padding-bottom: 54px;
+  }
+}
+
+.mb-32 {
+  margin-bottom: 32px;
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (min-width: 768px) {
+  .md\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:gap-x-24 {
+    column-gap: 24px;
+  }
+
+  .md\:gap-y-16 {
+    row-gap: 16px;
+  }
+}
+
+.gap-x-16 {
+  column-gap: 16px;
+}
+
+@media (min-width: 640px) {
+  .sm\:gap-x-20 {
+    column-gap: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:gap-x-28 {
+    column-gap: 28px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:gap-x-30 {
+    column-gap: 30px;
+  }
+}
+
+.gap-y-14 {
+  row-gap: 14px;
+}
+.grid{
+  display: grid !important;
+}
+.clients-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  background-color: #fbfbfc;
+  padding: 20px;
+}
+.clients-img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  vertical-align: middle;
 }

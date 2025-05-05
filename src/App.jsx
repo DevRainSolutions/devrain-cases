@@ -5,6 +5,7 @@ import Sidebar from './components/Sidebar';
 import ArticleViewer from './components/ArticleViewer';
 import { getArticlesFiles } from './utils/getArticlesTree';
 import { projectName } from './constants/appconstants';
+import Welcome from './components/Welcome';
 
 function findFirstFile(tree) {
   if (tree.files?.[0]) return tree.files[0].path;
@@ -95,9 +96,13 @@ function HomeLayout({ articleTree, articlePath, setArticlePath, sidebarOpen, set
           selectedPath={articlePath}
         />
         <div className="page-wrapper">
-          <ArticleViewer filePath={effectivePath} onNavigate={(path) => {
-            window.location.href = `/${projectName}/${encodeURIComponent(path)}`;
-          }}  />
+        {filePath ? (
+            <ArticleViewer filePath={effectivePath} onNavigate={(path) => {
+              window.location.href = `/${projectName}/${encodeURIComponent(path)}`;
+            }} />
+          ) : (
+            <Welcome />
+          )}
         </div>
       </div>
     </>
@@ -119,7 +124,6 @@ function App() {
       const files = getArticlesFiles();
       const tree = {};
       const visibleTree = {};
-      const allFiles = {};
   
       for (const fullPath in files) {
         const relativePath = fullPath.replace('../articles/', '');
@@ -128,8 +132,23 @@ function App() {
         const isHidden = fileName.startsWith('_');
   
         const fileContent = await files[fullPath]();
-        const firstLine = fileContent.trim().split('\n')[0];
-        const displayName = firstLine.replace(/^#\s*/, '').trim() || fileName;
+        const lines = fileContent.trim().split('\n');
+  
+        let contentStartIndex = 0;
+        if (lines[0].trim() === '---') {
+          for (let i = 1; i < lines.length; i++) {
+            if (lines[i].trim() === '---') {
+              contentStartIndex = i + 1;
+              break;
+            }
+          }
+        }
+  
+        const contentLines = lines.slice(contentStartIndex);
+        const firstHeaderLine = contentLines.find(line => line.trim().startsWith('# '));
+        const displayName = firstHeaderLine
+          ? firstHeaderLine.replace(/^#\s*/, '').trim()
+          : fileName;
   
         const fileMeta = {
           name: fileName,
@@ -159,11 +178,12 @@ function App() {
   
       setArticleTree(visibleTree);
       const firstFile = findFirstFile(visibleTree);
-      if (firstFile) setArticlePath(firstFile);
+      // if (firstFile) setArticlePath(firstFile);
     }
   
     buildTree();
   }, []);
+  
 
   // const [articlePath, setArticlePath] = useState(findFirstFile(articleTree));
 
