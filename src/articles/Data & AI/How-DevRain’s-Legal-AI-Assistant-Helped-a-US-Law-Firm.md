@@ -1,6 +1,6 @@
 ---
 LEGAL AI  
-RAG  
+AI KNOWLEDGE BASE 
 DOCUMENT SEARCH  
 ---
 # How DevRain’s Legal AI Assistant Helped a US Law Firm  

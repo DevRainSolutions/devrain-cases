@@ -1,7 +1,9 @@
 *{
   font-family: Poppins;
   color: #25272F;
+  scrollbar-color: #888 #f1f1f1;
 }
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -70,6 +72,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 5px;
+}
+
 .sidebar-wrapper {
   display: flex;
   flex-direction: row;
@@ -82,7 +90,6 @@ button:focus-visible {
   background-color: white;
   padding: 1rem;
   overflow-y: auto;
-  border-right: 1px black solid;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -124,7 +131,7 @@ button:focus-visible {
   justify-content: center;      
   align-items: flex-start;      
   padding: 2rem;
-  background-color: #f4f4f4;
+  background-color: white;
   overflow-y: auto;
   box-sizing: border-box;
 }
@@ -136,8 +143,6 @@ button:focus-visible {
   color: #333;
   padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  font-family: "Segoe UI", sans-serif;
   line-height: 1.6;
 }
 
@@ -424,6 +429,9 @@ button:focus-visible {
   .md\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
+  .partner-title {
+    font-size: 24px !important;
+  }
 
   .md\:gap-x-24 {
     column-gap: 24px;
@@ -469,10 +477,40 @@ button:focus-visible {
   height: 100px;
   background-color: #fbfbfc;
   padding: 20px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
 }
 .clients-img{
   max-width: 100%;
   height: auto;
   display: block;
   vertical-align: middle;
+}
+
+.partner-block {
+  display: flex;
+  gap: 10px;
+  align-items: center; 
+  padding-bottom: 6px; 
+  padding-top: 6px;
+  max-width: 100%;
+}
+
+@media (min-width: 1280px) {
+  .partner-block {
+    display: flex;
+    gap: 10px;
+    padding-left: 0;
+    padding-bottom: 18px;
+    padding-top: 0;
+  }
+}
+
+.partner-icon {
+  width: 30px;  
+  height: 30px;
+}
+
+.partner-title {
+  font-weight: 600;
+  font-size: 4vw;
 }

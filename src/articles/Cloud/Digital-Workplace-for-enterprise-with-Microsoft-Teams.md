@@ -4,6 +4,9 @@ HR AUTOMATION
 MICROSOFT TEAMS
 ---
 # Digital Workplace for enterprise with Microsoft Teams
+### **Client**
+
+[MHP](https://mhp.com.ua/) is the largest poultry and grain producer in Ukraine, selling its goods in 80 countries around the world.
 
 ### **Problem**
 
@@ -59,13 +62,6 @@ A digital workplace platform for employees that represents a single place for al
 ![](https://devrain.blob.core.windows.net/cases/digital_workplace_architecture_bf8858c7.png)
 
   
-
-**Client**
-
-[MHP](https://mhp.com.ua/) is the largest poultry and grain producer in Ukraine, selling its goods in 80 countries around the world.
-
-  
-
 **Public links:**
 
 [Major agricultural producer speeds up brand transformation via citizen development and automation - DevRain](https://devrain.com/case-studies/digital-workplace/mhp-speeds-up-brand-transformation-with-microsoft-teams)
