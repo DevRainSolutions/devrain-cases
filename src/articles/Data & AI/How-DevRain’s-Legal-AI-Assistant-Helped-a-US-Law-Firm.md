@@ -36,7 +36,7 @@ DevRain developed an Agentic Legal AI Assistant to simplify these daily operatio
 * Collecting Feedback: The assistant gathers user feedback for review by experienced staff to improve its performance.
 
 
-
+![] (https://azuremediastorageweb.blob.core.windows.net/media/image.png?sv=2023-01-03&st=2025-05-14T07%3A16%3A41Z&se=2025-12-15T08%3A16%3A00Z&sr=b&sp=r&sig=QKNwHC4I17zgl5boOics7vbSo2pT4hzwltcPEDE%2Fv3Y%3D)
   
 
 
