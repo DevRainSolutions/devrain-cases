@@ -31,7 +31,7 @@ Cloud-based eCommerce SaaS CRM platform with integrated mPOS for small and mediu
 
 ---
 
-**Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise**
+## Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise
 
 [Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise](Data%20&%20AI/Knowledge-base-on-Microsoft-SharePoint-with-enhanced-search-and-machine-learning-capabilities-for-enterprise.md)
 
