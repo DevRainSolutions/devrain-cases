@@ -1,4 +1,4 @@
-
+const e=`
 # AI-powered projects
 
 ## Enabling Quick Access to Corporate Knowledge with Agentic RAG using Azure OpenAI
@@ -48,3 +48,4 @@ The semi-automated solution validated documents to see if they met GDPR criteria
 AI-powered internal IT support system for Kernel using Azure OpenAI and agentic Retrieval-Augmented Generation (RAG). The solution indexes and processes data from Confluence, Jira, and SharePoint, providing accurate, real-time answers with source citations. AI-driven support streamlines issue resolution and improves efficiency for IT staff. Real-time updates ensure the knowledge base remains current across all integrated platforms. This approach enhances support quality, reduces response times, and empowers employees with instant access to company knowledge
 
 ---
+`;export{e as default};
