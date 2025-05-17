@@ -3,6 +3,7 @@ const e=`# Cloud and .NET projects
 [## Digital Workplace for enterprise with Microsoft Teams](Cloud/Digital-Workplace-for-enterprise-with-Microsoft-Teams.md)
 
 Helped MHP, Ukraine’s largest poultry producer, create a unified Digital Workplace using Microsoft Teams. The solution integrated HR and business processes, making information easily accessible to all employees, including field staff. Automation and citizen development programs empowered non-IT staff to optimize workflows. Integrations with systems like SAP, SharePoint, and Power BI improved efficiency and communication. The project boosted productivity, employee engagement, and digital transformation across the enterprise.
+
 ---
 
 ## Intelligent Assistant for Revenue Management platform
