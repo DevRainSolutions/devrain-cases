@@ -13,11 +13,7 @@ How the company leveraged Azure services and the innovative Agents and 'ChatGPT 
 
 [Intelligent Assistant for Revenue Management platform](Data%20&%20AI/Intelligent-Assistant-for-Revenue-Management-platform.md)
 
-Intelligent Assistant Copilot helps revenue managers daily and provides real-time proactive notifications about insights. Supported platforms: Teams, Web, Telegram, and Whatsapp.
-
-Copilot allows self-configuration so that users can configure their own KPIs, alerts, and data reports.
-
-Powered by Azure OpenAI.
+DevRain developed AI Assistant for a Revenue Management platform, accessible via Teams, web, Telegram, and WhatsApp. Powered by Azure OpenAI, the assistant delivers actionable insights, alerts, and recommendations to revenue managers. It simplifies daily decision-making and helps optimize revenue strategies through proactive notifications. The solution enhances efficiency by integrating seamlessly into existing workflows. This AI-driven tool empowers companies to make data-driven decisions and improve overall revenue performance.
 
 ---
 

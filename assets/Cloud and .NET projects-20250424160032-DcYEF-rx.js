@@ -1,4 +1,4 @@
-# Cloud and .NET projects
+const e=`# Cloud and .NET projects
 
 ## Digital Workplace for enterprise with Microsoft Teams
 
@@ -35,4 +35,4 @@ Cloud-based eCommerce SaaS CRM platform with integrated mPOS for small and mediu
 
 [Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise](Data%20&%20AI/Knowledge-base-on-Microsoft-SharePoint-with-enhanced-search-and-machine-learning-capabilities-for-enterprise.md)
 
-Enterprise knowledge base on Microsoft SharePoint with advanced search and machine learning capabilities. The solution enables employees to quickly find relevant information using enhanced search and AI-driven recommendations. It supports real-time synchronization with various data sources, ensuring up-to-date content. Integration with Microsoft Teams and a chatbot allows instant access to knowledge and automated query handling. This platform streamlines knowledge management, reduces support dependency, and boosts organizational efficiency.
+Enterprise knowledge base on Microsoft SharePoint with advanced search and machine learning capabilities. The solution enables employees to quickly find relevant information using enhanced search and AI-driven recommendations. It supports real-time synchronization with various data sources, ensuring up-to-date content. Integration with Microsoft Teams and a chatbot allows instant access to knowledge and automated query handling. This platform streamlines knowledge management, reduces support dependency, and boosts organizational efficiency.`;export{e as default};
