@@ -1,6 +1,6 @@
 # Cloud and .NET projects
 
-**Digital Workplace for enterprise with Microsoft Teams**
+## Digital Workplace for enterprise with Microsoft Teams
 
 [Digital Workplace for enterprise with Microsoft Teams](Cloud/Digital-Workplace-for-enterprise-with-Microsoft-Teams.md)
 
