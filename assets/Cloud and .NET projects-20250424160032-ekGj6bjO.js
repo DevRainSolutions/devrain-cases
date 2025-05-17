@@ -23,7 +23,7 @@ DevRain built a SaaS platform for SMBs and enterprises to manage employee compet
 
 ---
 
-**eCommerce SaaS CRM platform with mPOS system is used by small & medium Swiss trading companies**
+## eCommerce SaaS CRM platform with mPOS system is used by small & medium Swiss trading companies
 
 [eCommerce SaaS CRM platform with mPOS system is used by small & medium Swiss trading companies](Cloud/eCommerce-SaaS-CRM-platform-with-mPOS-system-is-used-by-small-&-medium-Swiss-trading-companies.md)
 
