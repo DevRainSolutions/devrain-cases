@@ -6,15 +6,11 @@ Helped MHP, Ukraine’s largest poultry producer, create a unified Digital Workp
 
 ---
 
-## Intelligent Assistant for Revenue Management platform
-
 [Intelligent Assistant for Revenue Management platform](Data%20&%20AI/Intelligent-Assistant-for-Revenue-Management-platform.md)
 
 AI Assistant for a Revenue Management platform, accessible via Teams, web, Telegram, and WhatsApp. Powered by Azure OpenAI, the assistant delivers actionable insights, alerts, and recommendations to revenue managers. It simplifies daily decision-making and helps optimize revenue strategies through proactive notifications. The solution enhances efficiency by integrating seamlessly into existing workflows. This AI-driven tool empowers companies to make data-driven decisions and improve overall revenue performance.
 
 ---
-
-## Platform for competency management for enterprise
 
 [Platform for competency management for enterprise](Cloud/SaaS-platform-for-competency,-compliance,-and-permissions-management-for-SMBs-&-enterprises.md)
 
@@ -22,15 +18,11 @@ SaaS platform for SMBs and enterprises to manage employee competencies, complian
 
 ---
 
-## eCommerce SaaS CRM platform with mPOS system is used by small & medium Swiss trading companies
-
 [eCommerce SaaS CRM platform with mPOS system is used by small & medium Swiss trading companies](Cloud/eCommerce-SaaS-CRM-platform-with-mPOS-system-is-used-by-small-&-medium-Swiss-trading-companies.md)
 
 Cloud-based eCommerce SaaS CRM platform with integrated mPOS for small and medium Swiss trading companies. The solution streamlines sales, customer management, and order processing in one unified system. It offers real-time access to business data, supporting both in-store and online transactions. The platform enhances efficiency and customer service through automation and seamless workflows. Swiss SMBs benefit from improved sales operations, centralized data, and scalable digital tools.
 
 ---
-
-## Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise
 
 [Knowledge base on Microsoft SharePoint with enhanced search and machine learning capabilities for enterprise](Data%20&%20AI/Knowledge-base-on-Microsoft-SharePoint-with-enhanced-search-and-machine-learning-capabilities-for-enterprise.md)
 
