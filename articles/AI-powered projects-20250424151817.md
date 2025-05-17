@@ -37,7 +37,7 @@ AI-powered solution for automated billing calculation from legal case documents.
 
 [Automated processing of legal documents for GDPR compliance](Data%20&%20AI/Automated-processing-of-legal-documents-for-GDPR-compliance.md)
 
-The semi-automated solution validated documents to see if they met GDPR criteria and prepared a summary of passed and not passed criteria. The person needed to validate the result and approve it.
+Automated tool for processing legal documents to assess and summarize GDPR compliance criteria. The solution enables users to quickly check which GDPR standards are met by each document, streamlining compliance reviews. Accessible through a user-friendly interface, it reduces manual effort and improves accuracy in legal workflows. Automated assessments help organizations maintain up-to-date records and demonstrate accountability for data protection. This tool supports efficient, consistent GDPR compliance for legal and business teams.
 
 ---
 
