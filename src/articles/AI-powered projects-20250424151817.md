@@ -5,7 +5,7 @@
 
 [Enabling Quick Access to Corporate Knowledge with Agentic RAG using Azure OpenAI](Data%20&%20AI/Enabling-Quick-Access-to-Corporate-Knowledge-with-Agentic-RAG-using-Azure-OpenAI.md)
 
-How the company leveraged Azure services and the innovative Agents and 'ChatGPT on Your Data' approach, incorporating Agentic Retrieval-Augmented Generation (RAG), to manage and utilize a vast collection of documents effectively and handle user queries. This solution significantly streamlined information retrieval, reducing dependency on support specialists and enhancing their efficiency in addressing requests. 
+Enabled quick access to corporate knowledge by implementing an AI assistant using Azure OpenAI and agentic Retrieval-Augmented Generation (RAG). The solution integrates with Microsoft Teams and a chatbot, allowing users to instantly query and retrieve information from large, distributed document sets. Enhanced search and AI-driven recommendations reduce dependency on support specialists and streamline information retrieval. The platform ensures data privacy, real-time updates, and provides source citations for every answer. This approach improves organizational efficiency and empowers employees to find accurate answers independently.
 
 ---
 
@@ -21,7 +21,7 @@ DevRain developed AI Assistant for a Revenue Management platform, accessible via
 
 [How DevRain’s Legal AI Assistant Helped a US Law Firm](Data%20&%20AI/How-DevRain’s-Legal-AI-Assistant-Helped-a-US-Law-Firm.md)
 
-AI-powered Legal assistant for streamlining daily operations in US law firm
+Legal AI Assistant for a US law firm to automate document review, legal research, and drafting tasks. The assistant leverages AI to quickly summarize contracts, flag risks, and generate first drafts, saving lawyers significant time. It integrates with the firm’s systems while ensuring data security and compliance. The solution enables attorneys to focus on complex analysis and client strategy by handling routine legal work. This AI-driven approach boosts productivity, accuracy, and client service for the law firm.
 
 ---
 
@@ -29,7 +29,7 @@ AI-powered Legal assistant for streamlining daily operations in US law firm
 
 [AI-Powered Billing Calculation for Legal Case Documents](Data%20&%20AI/AI-Powered-Billing-Calculation-for-Legal-Case-Documents.md)
 
-Automatic case billing calculation for the case for a US law firm
+AI-powered solution for automated billing calculation from legal case documents. The platform uses intelligent document processing to extract and analyze billing data, ensuring accuracy and compliance with legal billing standards. By automating time tracking, invoice generation, and error detection, the system reduces manual work and minimizes billing mistakes. It helps law firms and legal departments save time, lower administrative costs, and improve payment cycles. The AI-driven approach also supports customized billing and provides real-time insights for better financial management.
 
 ---
 
@@ -41,18 +41,10 @@ The semi-automated solution validated documents to see if they met GDPR criteria
 
 ---
 
-## Generating PowerShell Scripts with OpenAI
-
-[Generating PowerShell Scripts with OpenAI](Data%20&%20AI/Generating-PowerShell-Scripts-with-OpenAI.md)
-
-IT Pro must write custom complex PowerShell scripts to manage companies' infrastructure. OpenAI-powered Copilot generates and validates scripts based on user input. Users can spend 50% less time preparing to use scripts for their needs.
-
----
-
 ## Kernel: Internal IT Support with Azure OpenAI
 
 [Kernel Internal IT Support with Azure OpenAI](Data%20&%20AI/Kernel-Internal-IT-Support-with-Azure-OpenAI.md)
 
-Azure OpenAI-based RAG solution helps employees
+AI-powered internal IT support system for Kernel using Azure OpenAI and agentic Retrieval-Augmented Generation (RAG). The solution indexes and processes data from Confluence, Jira, and SharePoint, providing accurate, real-time answers with source citations. AI-driven support streamlines issue resolution and improves efficiency for IT staff. Real-time updates ensure the knowledge base remains current across all integrated platforms. This approach enhances support quality, reduces response times, and empowers employees with instant access to company knowledge
 
 ---
