@@ -1,4 +1,4 @@
----
+const e=`---
 GDPR COMPLIANCE  
 LEGAL DOCUMENT AUTOMATION  
 AI ASSISTANT  
@@ -58,3 +58,4 @@ The solution decreased the average time required to process documents by 70%.
 
 
 ### 
+`;export{e as default};
