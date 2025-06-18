@@ -7,6 +7,18 @@ Enabled quick access to corporate knowledge by implementing an AI assistant usin
 
 ---
 
+[AI-based eCommerce products recommendations and metadata enrichment](Data%20&%20AI/AI-based%20eCommerce%20products%20recommendations%20and%20metadata%20enrichment-20250616093356.md)
+
+DevRain developed an AI-powered solution for a U.S.-based eCommerce SaaS platform serving SMB and enterprise distributors. The system enhances product recommendations, metadata enrichment, and search capabilities using Azure OpenAI and other cutting-edge technologies. Sales teams can now upload invoices in any format and instantly receive AI-generated quotes with optimized product alternatives. The platform also fills in missing product metadata and enables accurate, AI-driven search across the catalogue. This solution significantly improves sales efficiency, boosts product discoverability, and supports faster, data-informed decisions.
+
+---
+
+[Emotional Support through AI-Driven Virtual Companions Platform](Data%20&%20AI/Emotional%20Support%20through%20AI-Driven%20Virtual%20Companions%20Platform-20250502093104.md)
+
+Loneliness has become a significant public health issue in today's digital world. Research links loneliness to increased risks of stroke and cardiovascular disease due to specific proteins associated with social isolation. Globally, loneliness rates vary, with higher prevalence in Eastern Europe and lower in Northern Europe. The Harvard Making Caring Common project highlights that societal changes and individual behaviors contribute to this epidemic, suggesting that fostering meaningful connections and community-building are essential.
+
+---
+
 [Intelligent Assistant for Revenue Management platform](Data%20&%20AI/Intelligent-Assistant-for-Revenue-Management-platform.md)
 
 DevRain developed AI Assistant for a Revenue Management platform, accessible via Teams, web, Telegram, and WhatsApp. Powered by Azure OpenAI, the assistant delivers actionable insights, alerts, and recommendations to revenue managers. It simplifies daily decision-making and helps optimize revenue strategies through proactive notifications. The solution enhances efficiency by integrating seamlessly into existing workflows. This AI-driven tool empowers companies to make data-driven decisions and improve overall revenue performance.
