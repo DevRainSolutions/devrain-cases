@@ -1,1 +1,1 @@
-export const projectName = 'devrain-cases';
+export const projectName = '';
