@@ -1,0 +1,2 @@
+Kyivstar: AI-Powered Solutions for Telecom Challenges (TBD)
+Facing an influx of customer queries, Ukraine's leading telecom company struggled with timely and accurate responses. We collaborated to implement a chatbot, harnessing OpenAI and Azure Cognitive Search. This optimized internal workflows by sorting client queries and directing them to the right department, ensuring customers get prompt responses from the right experts. As a result, customers enjoyed quicker, expert-driven answers, improving their overall experience.
