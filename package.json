@@ -6,7 +6,7 @@
   "homepage": "https://shwetsandriy.github.io/article-editor/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && echo > dist/.nojekyll"
+    "build": "vite build && echo > dist/.nojekyll",
     "lint": "eslint .",
     "preview": "vite preview",
     "copy-md": "node copy-md-files.js",
