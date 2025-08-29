@@ -1,0 +1,2 @@
+UAnimals: Automating Newsletter Creation (TBD)
+UAnimals, a Ukrainian nonprofit's business analyst was spending numerous hours weekly crafting newsletters for various audiences. To streamline this, we implemented the OpenAI API, which auto-generates newsletters from datasets. The process is simplified: the BA chooses a recent dataset, sets up a template with specifics like audience and structure, and then uses the API to draw insights and populate the newsletter. After a quick review, the newsletter is ready to be sent.
