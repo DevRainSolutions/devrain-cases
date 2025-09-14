@@ -37,16 +37,16 @@ Users can get an audio message from the Companion or have real-time audio calls 
 
 **Technical implementation:**
 
-*   Fine-tuned LLama 3 (for text generation)
-*   WizardML (for text generation)
-*   fine-tuned Stable Diffusion (for image generation)
+*   Fine-tuned LLama 3 / WizardML (for text generation)
+*   Fine-tuned Stable Diffusion (for image generation)
 *   Llava (for image attribution)
 *   ElevenLabs (for audio generation)
 *   NVidia/Nemo
 *   KoljaB/RealtimeSTT
-*   KlingAI/Wan2.1 (for video generation)
+*   KlingAI/Wan2.1/2.2 (for video generation)
 *   AWS
 *   Runpod
+*   Fal.ai
 
   
 
